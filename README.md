@@ -1,4 +1,4 @@
-# cryptotracker
+
 
 CryptoTracker
 The website is connected to the Coingecko API, which is a popular source of data for cryptocurrency information. Coingecko provides data on thousands of
